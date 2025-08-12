@@ -1,0 +1,3 @@
+configs\AndroidCapabilities.class
+pages\authentication\LoginPage.class
+pages\inventory\InventoryPage.class
